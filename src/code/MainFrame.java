@@ -9,7 +9,7 @@ public class MainFrame {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		JFrame frame = new JFrame("Generator");
+		JFrame frame = new JFrame("Ticket System");
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setPreferredSize(new Dimension(701,401));
 		frame.setContentPane(new MainPanel());
